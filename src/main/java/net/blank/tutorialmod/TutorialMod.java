@@ -17,6 +17,8 @@ public class TutorialMod implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
+		ModItems.RegisterModItems();
+
 		LOGGER.info("Hello Fabric world!");
 	}
 }
