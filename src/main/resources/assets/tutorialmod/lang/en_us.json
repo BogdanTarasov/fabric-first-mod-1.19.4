@@ -1,4 +1,6 @@
 {
   "item.tutorialmod.sulfur": "Sulfur",
-  "item.tutorialmod.steel_ingot": "Steel ingot"
+  "item.tutorialmod.steel_ingot": "Steel ingot",
+  "block.tutorialmod.sulfur_ore": "Sulfur ore",
+  "block.tutorialmod.deepslate_sulfur_ore": "Deepslate sulfur ore"
 }

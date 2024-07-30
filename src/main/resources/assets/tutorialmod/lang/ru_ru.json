@@ -1,4 +1,6 @@
 {
   "item.tutorialmod.sulfur": "Сера",
-  "item.tutorialmod.steel_ingot": "Стальной слиток"
+  "item.tutorialmod.steel_ingot": "Стальной слиток",
+  "block.tutorialmod.sulfur_ore": "Серная руда",
+  "block.tutorialmod.deepslate_sulfur_ore": "Глубокосланцевая серная руда"
 }
