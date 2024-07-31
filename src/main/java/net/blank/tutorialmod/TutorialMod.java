@@ -4,7 +4,6 @@ import net.blank.tutorialmod.block.ModBlocks;
 import net.blank.tutorialmod.item.ModItemGroup;
 import net.blank.tutorialmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
-import net.minecraft.item.ItemGroup;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

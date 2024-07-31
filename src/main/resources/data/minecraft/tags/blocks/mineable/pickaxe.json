@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:sulfur_ore",
+    "tutorialmod:deepslate_sulfur_ore",
+    "tutorialmod:steel_block"
+  ]
+}
